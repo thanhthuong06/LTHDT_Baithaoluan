@@ -1,0 +1,2 @@
+borrow_id,book_id,reader_id,borrow_date,due_date,return_date,quantity,lender_id,receiver_id
+P20251019_0001,A0001,R24_00004,19/10/2025,18/12/2025,20/12/2025,1,NV20251005_001,NV20251005_001
